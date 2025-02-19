@@ -69,7 +69,7 @@ We focus on testability and maintainability, so we mainly use modular and unidir
 
 - **Image & Video Handling**  
   - [Kingfisher](https://github.com/onevcat/Kingfisher) – Image caching  
-  - [AVFoundation](https://developer.apple.com/documentation/avfoundation) – Audio/Video editing, mixing, combining, conversions  
+  - [AVFoundation](https://developer.apple.com/documentation/avfoundation) – Audio/Video editing, mixing, combining, conversions. Taking photos/videos
   - Picking photos & videos, custom pickers  
 
 - **Animations & UI Enhancements**  

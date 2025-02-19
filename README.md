@@ -6,6 +6,7 @@ A modern iOS development stack with **Swift 6** and **Objective-C**.
 
 - **[Swift Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture)** – Modular and testable architecture  
 - **[Swift Dependencies](https://github.com/pointfreeco/swift-dependencies)** – Dependency injection  
+- **Modern Swift Concurrency** – `async/await`, `Task`, `Actors`, `Structured Concurrency`  
 
 ## Testing
 
@@ -58,9 +59,10 @@ A modern iOS development stack with **Swift 6** and **Objective-C**.
 
 - **[CryptoKit](https://developer.apple.com/documentation/cryptokit)** – Encryption & Decryption  
 
-## Reactive Programming
+## Reactive Programming & Concurrency
 
 - **RxSwift** and **Combine**  
+- **Swift Concurrency** (`async/await`, `Task`, `Actors`, `MainActor`)  
 
 ## Real-Time Communication
 

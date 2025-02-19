@@ -43,6 +43,13 @@ A modern iOS development stack with **Swift 6** and **Objective-C**.
   - Firebase (Push notifications, Remote Config, Crashlytics, Analytics)  
   - Azure Storage (Upload & Download)  
 
+## Notifications
+
+- **Push Notifications**  
+  - Firebase Cloud Messaging (FCM)  
+  - Local Notifications  
+  - **Push Notification Extension** – Customizing notifications with media attachments, actions, and rich content  
+
 ## Media & UI
 
 - **Image & Video Handling**  
@@ -54,6 +61,11 @@ A modern iOS development stack with **Swift 6** and **Objective-C**.
   - [Lottie](https://airbnb.io/lottie/) – Animated illustrations  
   - Emojis support  
   - Document Picker for file selection  
+
+## Extensions
+
+- **Push Notification Extension** – Customizing push notifications  
+- **Sharing Extension** – Allowing users to share content from other apps into the app  
 
 ## Cryptography & Security
 

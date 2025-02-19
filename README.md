@@ -4,9 +4,18 @@ A modern iOS development stack with **Swift 6** and **Objective-C**.
 
 ## Architecture & Dependencies
 
+- **Clean Architecture** – Layered architecture for maintainability and scalability  
+- **Unidirectional Architectures** – Ensuring predictable state management and separation of concerns  
 - **[Swift Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture)** – Modular and testable architecture  
+- **MVVM (Model-View-ViewModel)** – Clear separation between UI and business logic  
 - **[Swift Dependencies](https://github.com/pointfreeco/swift-dependencies)** – Dependency injection  
 - **Modern Swift Concurrency** – `async/await`, `Task`, `Actors`, `Structured Concurrency`  
+
+## Experience & Scalability
+
+- **Large-Scale Projects** – Experience with huge codebases and complex applications  
+- **Multiple Apps Sharing Code** – Efficient modularization and code reuse  
+- **REST API Development & Integration** – Building and consuming APIs  
 
 ## Version Control
 

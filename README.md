@@ -93,9 +93,10 @@ We focus on testability and maintainability, so we mainly use modular and unidir
 
 ## Real-Time Communication
 
-- **SignalR**  
+- **SignalR**
+- **WebSockets**  
 
-## Logging & Debugging
+## Logging & Debugging 
 
 - **Logging frameworks**  
   - [XCLogger](https://github.com/DaveWoodCom/XCGLogger)  

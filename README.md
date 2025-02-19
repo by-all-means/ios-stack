@@ -1,12 +1,12 @@
 # iOS Stack
 
-A modern iOS development stack with **Swift 6** and **Objective-C**.
+A modern iOS development stack with **Swift 6**, but we also have long time experience with **Objective-C**
 
 ## Architecture & Dependencies
 
-- **Clean Architecture** – Layered architecture for maintainability and scalability  
 - **Unidirectional Architectures** – Ensuring predictable state management and separation of concerns  
 - **[Swift Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture)** – Modular and testable architecture  
+- **Clean Architecture** – Layered architecture for maintainability and scalability  
 - **MVVM (Model-View-ViewModel)** – Clear separation between UI and business logic  
 - **[Swift Dependencies](https://github.com/pointfreeco/swift-dependencies)** – Dependency injection  
 - **Modern Swift Concurrency** – `async/await`, `Task`, `Actors`, `Structured Concurrency`  
@@ -110,8 +110,4 @@ A modern iOS development stack with **Swift 6** and **Objective-C**.
 
 ## Graphics & Rendering
 
-- **Metal & OpenGL** – 2D/3D rendering, game engine  
-
----
-
-This stack provides a solid foundation for modern iOS development, ensuring scalability, testability, and maintainability. 🚀
+- **Metal & OpenGL** – 2D/3D rendering, game engine 

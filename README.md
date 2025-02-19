@@ -1,6 +1,7 @@
 # iOS Stack
 
-A modern iOS development stack with **Swift 6**, but we also have long time experience with **Objective-C**
+A modern iOS development stack with **Swift 6**, but we also have long time experience with **Objective-C**.
+We focus on testability and maintainability, so we mainly use modular and unidirectional architecture called Swift Composable Architecture (TCA).
 
 ## Architecture & Dependencies
 

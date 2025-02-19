@@ -3,6 +3,11 @@
 A modern iOS development stack with **Swift 6**, but we also have long time experience with **Objective-C**.
 We focus on testability and maintainability, so we mainly use modular and unidirectional architecture called Swift Composable Architecture (TCA).
 
+## UI
+
+- **SwiftUI** - The best way to build apps across Apple platforms
+- **UIKit**
+
 ## Architecture & Dependencies
 
 - **Unidirectional Architectures** – Ensuring predictable state management and separation of concerns  
@@ -12,11 +17,21 @@ We focus on testability and maintainability, so we mainly use modular and unidir
 - **[Swift Dependencies](https://github.com/pointfreeco/swift-dependencies)** – Dependency injection  
 - **Modern Swift Concurrency** – `async/await`, `Task`, `Actors`, `Structured Concurrency`  
 
+
+## In-app purchases & subscriptions
+- **StoreKit** - Support In-App Purchases and interactions with the App Store
+- **[RevenueCat](https://www.revenuecat.com)** - Simplifying the implementation and maintenance of in-app purchases & subscriptions
+
 ## Experience & Scalability
 
 - **Large-Scale Projects** – Experience with huge codebases and complex applications  
 - **Multiple Apps Sharing Code** – Efficient modularization and code reuse  
 - **REST API Development & Integration** – Building and consuming APIs  
+
+## Accessibility
+
+- **Voice Over** – Gesture-based screen reader that enables people to experience the interface on their devices without having to see the screen
+- **Dynamic type** – Allows users to choose the size of textual content displayed on the screen
 
 ## Version Control
 
@@ -33,12 +48,14 @@ We focus on testability and maintainability, so we mainly use modular and unidir
 
 ## CI/CD
 
-- **[Fastlane](https://fastlane.tools/)** and **GitHub Actions** for automation  
+- **[Fastlane](https://fastlane.tools/)** and **GitHub Actions** for automation
+- **[Xcode Cloud](https://developer.apple.com/xcode-cloud/)** Seamless continuous integration and delivery service provided by Apple
 
 ## Networking & Authentication
 
 - **Networking**  
   - `URLSession`, [Alamofire](https://github.com/Alamofire/Alamofire)  
+  - GraphQL, [Apollo](https://github.com/apollographql/apollo-ios)
   - Secure authentication using OpenID, `ASWebAuthenticationSession`  
   - Auth via access tokens and other methods  
 
@@ -52,11 +69,14 @@ We focus on testability and maintainability, so we mainly use modular and unidir
 - **Local Storage**  
   - Keychain  
   - User Defaults  
-  - Realm, CoreData  
+  - Realm
+  - CoreData
+  - SwiftData
 
 - **Cloud & Remote Storage**  
   - Firebase (Push notifications, Remote Config, Crashlytics, Analytics)  
-  - Azure Storage (Upload & Download)  
+  - Azure Storage (Upload & Download) 
+  - iCloud synchronization 
 
 ## Notifications
 
@@ -81,6 +101,7 @@ We focus on testability and maintainability, so we mainly use modular and unidir
 
 - **Push Notification Extension** – Customizing push notifications  
 - **Sharing Extension** – Allowing users to share content from other apps into the app  
+- **App Intents Extension** – Making your app’s content and actions discoverable with system experiences like Spotlight, widgets, and enhanced action capabilities of Siri, powered by Apple Intelligence
 
 ## Cryptography & Security
 
@@ -88,7 +109,7 @@ We focus on testability and maintainability, so we mainly use modular and unidir
 
 ## Reactive Programming & Concurrency
 
-- **RxSwift** and **Combine**  
+- **RxSwift**, **Combine** and **ReactiveSwift**
 - **Swift Concurrency** (`async/await`, `Task`, `Actors`, `MainActor`)  
 
 ## Real-Time Communication
@@ -113,3 +134,4 @@ We focus on testability and maintainability, so we mainly use modular and unidir
 ## Graphics & Rendering
 
 - **Metal & OpenGL** – 2D/3D rendering, game engine 
+- **CoreAnimation** - Core Animation provides high frame rates and smooth animations without burdening the CPU or slowing down your app

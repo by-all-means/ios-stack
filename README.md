@@ -8,6 +8,11 @@ A modern iOS development stack with **Swift 6** and **Objective-C**.
 - **[Swift Dependencies](https://github.com/pointfreeco/swift-dependencies)** – Dependency injection  
 - **Modern Swift Concurrency** – `async/await`, `Task`, `Actors`, `Structured Concurrency`  
 
+## Version Control
+
+- **Git** – Source control management  
+- **Git Flow** – Branching strategy for feature development and releases  
+
 ## Testing
 
 - **[Snapshot Testing](https://github.com/pointfreeco/swift-snapshot-testing)** – UI tests  
